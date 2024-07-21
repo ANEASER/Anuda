@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/anuda/static/css/main.49dc3bae.css",
-    "main.js": "/anuda/static/js/main.fe763cab.js",
-    "static/media/A.jpeg": "/anuda/static/media/A.22ad41f2dd3d47c04f8f.jpeg",
-    "static/media/B.jpeg": "/anuda/static/media/B.71051f55ea5e99dd6db4.jpeg",
-    "static/media/anuda_esarith.pdf": "/anuda/static/media/anuda_esarith.23edb9c7a76d3ce7e699.pdf",
-    "static/media/F.png": "/anuda/static/media/F.8419a4b978b9150ea32f.png",
-    "static/media/E.jpeg": "/anuda/static/media/E.276664e3b23c883cbad2.jpeg",
-    "static/media/I.png": "/anuda/static/media/I.0526a308ea5438d40c24.png",
-    "static/media/C.jpeg": "/anuda/static/media/C.497267a606e2ab30fd8f.jpeg",
-    "static/media/D.jpeg": "/anuda/static/media/D.051e39204a9dcfcc52c8.jpeg",
-    "static/media/bg1.png": "/anuda/static/media/bg1.90fe7c281cab1fe97398.png",
-    "static/media/G.png": "/anuda/static/media/G.b66f6ee452cc4c60190e.png",
-    "static/media/H.png": "/anuda/static/media/H.b47534b3b0f44098f63b.png",
-    "index.html": "/anuda/index.html",
-    "main.49dc3bae.css.map": "/anuda/static/css/main.49dc3bae.css.map",
-    "main.fe763cab.js.map": "/anuda/static/js/main.fe763cab.js.map"
+    "main.css": "/Anuda/static/css/main.49dc3bae.css",
+    "main.js": "/Anuda/static/js/main.0bfb1ec1.js",
+    "static/media/A.jpeg": "/Anuda/static/media/A.22ad41f2dd3d47c04f8f.jpeg",
+    "static/media/B.jpeg": "/Anuda/static/media/B.71051f55ea5e99dd6db4.jpeg",
+    "static/media/anuda_esarith.pdf": "/Anuda/static/media/anuda_esarith.23edb9c7a76d3ce7e699.pdf",
+    "static/media/F.png": "/Anuda/static/media/F.8419a4b978b9150ea32f.png",
+    "static/media/E.jpeg": "/Anuda/static/media/E.276664e3b23c883cbad2.jpeg",
+    "static/media/I.png": "/Anuda/static/media/I.0526a308ea5438d40c24.png",
+    "static/media/C.jpeg": "/Anuda/static/media/C.497267a606e2ab30fd8f.jpeg",
+    "static/media/D.jpeg": "/Anuda/static/media/D.051e39204a9dcfcc52c8.jpeg",
+    "static/media/bg1.png": "/Anuda/static/media/bg1.90fe7c281cab1fe97398.png",
+    "static/media/G.png": "/Anuda/static/media/G.b66f6ee452cc4c60190e.png",
+    "static/media/H.png": "/Anuda/static/media/H.b47534b3b0f44098f63b.png",
+    "index.html": "/Anuda/index.html",
+    "main.49dc3bae.css.map": "/Anuda/static/css/main.49dc3bae.css.map",
+    "main.0bfb1ec1.js.map": "/Anuda/static/js/main.0bfb1ec1.js.map"
   },
   "entrypoints": [
     "static/css/main.49dc3bae.css",
-    "static/js/main.fe763cab.js"
+    "static/js/main.0bfb1ec1.js"
   ]
 }
